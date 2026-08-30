@@ -91,6 +91,19 @@ const projects = [
   },
 
   {
+    title: "Riff Along",
+    description:
+      "This is an application that features a song analyzer that sends the analyzed file to a server and then outputs back the chords to play the song. Chromatic tuner and ultimate guitar/spotify functionalities included.",
+    technologies: [
+      "Microsoft Azure",
+      "Kotlin",
+      "Android Studio",
+    ],
+    github: "https://github.com/Alexvu31/RiffAlong",
+    demo: "#"
+  },
+
+  {
     title: "QubitTouchdown",
     description:
       "An interactive card game built in Java with a SQLite database backend for persisting game state and player data.",
